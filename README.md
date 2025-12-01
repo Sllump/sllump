@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sllump" alt="sllump" /></a> </p>
 
-- 🔭 I’m currently working on [District904](https://discord.gg/District904)
 
-- 🌱 I’m currently learning on **Mastering React, Svelte**
+- 🌱 I’m currently learning on **Mastering Vue, JQuery, Several API Providers**
 
 - 🤝 I’m looking for help with **C# & C++**
 
